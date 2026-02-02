@@ -1,5 +1,8 @@
 # Arduino Uno Simulator (Web-Based)
 
+[![Tech](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![Field](https://img.shields.io/badge/Focus-Electronics%20%26%20Communication-blue)](#)
+
 ## 📌 Overview
 
 The **Arduino Uno Simulator** is a browser-based interactive simulator that allows users to design, wire, and simulate basic Arduino circuits without physical hardware. It is designed for beginners, students, and educators to understand Arduino fundamentals through visual interaction.
