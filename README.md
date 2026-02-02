@@ -83,7 +83,7 @@ This project is intended for **educational and academic use**.
 
 ## 🙌 Author
 
-**Manas Neigapula**
+**Manas Krishna Neigapula**
 B.Tech – Electronics and Communication Engineering
 Project: Arduino Uno Simulator (Web-Based)
 
