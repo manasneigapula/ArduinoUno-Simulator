@@ -1,6 +1,6 @@
 # Arduino Uno Simulator (Web-Based)
 
-[![Tech](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)](#)
+[![Tech](https://img.shields.io/badge/Made%20with-HTML5-E34F26?logo=html5&logoColor=white)](#)
 [![Field](https://img.shields.io/badge/Focus-Electronics%20%26%20Communication-blue)](#)
 
 ## 📌 Overview
